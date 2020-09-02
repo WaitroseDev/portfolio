@@ -37,3 +37,14 @@ When the user clicks on "Please click here to pay", they are taken to a PayPal c
 ![Post payment completion](https://waitrose.wtf/E0R4rjo7.png)
 
 After payment is complete and automatically confirmed, the bot will send a message to the channel where payment was requested, stating that the Payment is now complete, quoting the Order ID and the total amount of the order.
+
+### Looking up a payment's status...
+#### If an payment is not yet complete
+![What is shown when a payment is not yet complete](https://waitrose.wtf/tT1vabLe.gif)
+
+As you can see, when a payment is not complete, an embedded message is sent back containing the payment's description and a link to complete the payment. Furthermore, the Amount which is outstanding is also contained in the embed.
+
+#### And when a payment is complete...
+![And when a payment has been paid for...](https://waitrose.wtf/yHhN4DNw.gif)
+
+Further to add to the payment lookup command, when looking up a completed payment, the bot will reply with another embedded message which shows that the payment is complete, along with the ID of the person who paid and the date/time of the payment
