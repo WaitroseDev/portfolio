@@ -2,13 +2,13 @@
 ---
 
 ## Table of Contents
-- [# PayPal Invoicing & Payments bot](#h1-idpaypal-invoicing--payments-bot-1179paypal-invoicing--payments-both1)
-- [Table of Contents](#table-of-contents)
-- [Task:](#task)
-- [Commands:](#commands)
-- [Showcase](#showcase)
-  - [Request a payment using the "pay" command](#request-a-payment-using-the-pay-command)
-  - [What happens after an order is paid for...](#what-happens-after-an-order-is-paid-for)
+1. [PayPal Invoicing & Payments bot](#h1-idpaypal-invoicing--payments-bot-1179paypal-invoicing--payments-both1)
+2. [Table of Contents](#table-of-contents)
+3. [Task:](#task)
+4. [Commands:](#commands)
+5. [Showcase](#showcase)
+   1. [Request a payment using the "pay" command](#request-a-payment-using-the-pay-command)
+   2. [What happens after an order is paid for...](#what-happens-after-an-order-is-paid-for)
 
 ---
 
